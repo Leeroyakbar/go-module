@@ -1,3 +1,3 @@
-module github.com/Leeroyakbar/go-module
+module github.com/Leeroyakbar/go-module/v2
 
 go 1.22.2
